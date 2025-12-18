@@ -15,17 +15,26 @@
 
 ---
 
-## 🛠 Languages & Tools
-![C++](https://img.shields.io/badge/C%2B%2B-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-![Python](https://img.shields.io/badge/Python-blue)
-![HTML](https://img.shields.io/badge/HTML5-red)
-![CSS](https://img.shields.io/badge/CSS3-blue)
-
+## 🛠 Skills & Tools
+| Language | Badge |
+|----------|-------|
+| C++      | ![C++](https://img.shields.io/badge/C%2B%2B-blue) |
+| Java     | ![Java](https://img.shields.io/badge/Java-orange) |
+| Python   | ![Python](https://img.shields.io/badge/Python-blue) |
+| C#       | ![C#](https://img.shields.io/badge/C%23-purple) |
+| HTML     | ![HTML](https://img.shields.io/badge/HTML5-red) |
+| CSS      | ![CSS](https://img.shields.io/badge/CSS3-blue) |
 ---
 
-## 📂 Projects
-- 🧩 **Data Structures in C++**
-- 🏗️ **Software Engineering Project (Python - MVC)**
-- 💊 **Pharmacy Database System (C# + HTML/CSS - MVC)**
+## 📁 Projects
+- **🧩 Smart City Traffic Management System (C++ - Data Structures)**  
+  Implemented a traffic management system using **Stack, Queue, and Linked List** to simulate city traffic control.  
+
+- **🏗 MVC Software Engineering Project(OOP Python)**  
+  Software engineering project following the **MVC architecture** using Python.  
+
+- **💊 Pharmacy Database System (C# / HTML / CSS)**  
+  Database project following the **MVC pattern** with multiple roles.
+
+
 
