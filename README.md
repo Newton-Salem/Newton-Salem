@@ -29,10 +29,7 @@
 - **💊 Pharmacy Database System (C# / HTML / CSS)**  
   Database project following the **MVC pattern** with multiple roles.
 
----
 
-## 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newton-Salem&show_icons=true&theme=radical&count_private=true)
 
 
 
