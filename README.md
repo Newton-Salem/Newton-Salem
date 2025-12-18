@@ -1,17 +1,4 @@
 # Hi there 👋, I'm Mohamed
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Newton-Salem&color=blue)
-
----
-
-## 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newton-Salem&show_icons=true&theme=radical&count_private=true)
-
----
-
-## 🖥 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Newton-Salem&layout=compact&theme=radical)
-
 
 ## 🎯 About Me
 - 🎓 Computer Science Student @ Zewail University
@@ -41,6 +28,19 @@
 
 - **💊 Pharmacy Database System (C# / HTML / CSS)**  
   Database project following the **MVC pattern** with multiple roles.
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Newton-Salem&color=blue)
+
+---
+
+## 📊 GitHub Stats
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newton-Salem&show_icons=true&theme=radical&count_private=true)
+
+---
+
+## 🖥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Newton-Salem&layout=compact&theme=radical)
 
 
 
