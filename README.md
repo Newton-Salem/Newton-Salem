@@ -10,8 +10,8 @@
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-salem-cs
-- ✉️ Email: newtonsalem669@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-salem-cs)
+[![Email](https://img.shields.io/badge/Email-newtonsalem669@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:newtonsalem669@gmail.com)
 
 ---
 
