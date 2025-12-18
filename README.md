@@ -16,15 +16,8 @@
 ---
 
 ## 🛠 Skills & Tools
-| Language | Badge |
-|----------|-------|
-| C++      | ![C++](https://img.shields.io/badge/C%2B%2B-blue) |
-| Java     | ![Java](https://img.shields.io/badge/Java-orange) |
-| Python   | ![Python](https://img.shields.io/badge/Python-blue) |
-| C#       | ![C#](https://img.shields.io/badge/C%23-purple) |
-| HTML     | ![HTML](https://img.shields.io/badge/HTML5-red) |
-| CSS      | ![CSS](https://img.shields.io/badge/CSS3-blue) |
----
+![C++](https://img.shields.io/badge/C%2B%2B-blue) ![Java](https://img.shields.io/badge/Java-orange) ![Python](https://img.shields.io/badge/Python-blue) ![C#](https://img.shields.io/badge/C%23-purple) ![HTML](https://img.shields.io/badge/HTML5-red) ![CSS](https://img.shields.io/badge/CSS3-blue)
+
 
 ## 📁 Projects
 - **🧩 Smart City Traffic Management System (C++ - Data Structures)**  
