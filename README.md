@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mohamed Salem
+# Hi there 👋, I'm Mohamed
 
 ## 🎯 About Me
 - 🎓 Computer Science Student @ Zewail University
