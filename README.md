@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Mohamed Salem
 
-<!--
-**Newton-Salem/Newton-Salem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 About Me
+- 🎓 Computer Science Student @ Zewail University
+- 💻 Aspiring Software Engineer
+- 🧪 Software Testing Trainee @ DEPI (Java)
+- 🧠 Interested in Software Engineering & Problem Solving
+- ⚙️ Exploring DevOps and backend development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-salem-cs
+- ✉️ Email: newtonsalem669@gmail.com
+
+---
+
+## 🛠 Languages & Tools
+![C++](https://img.shields.io/badge/C%2B%2B-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![Python](https://img.shields.io/badge/Python-blue)
+![HTML](https://img.shields.io/badge/HTML5-red)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+
+---
+
+## 📂 Projects
+- 🧩 **Data Structures in C++**
+- 🏗️ **Software Engineering Project (Python - MVC)**
+- 💊 **Pharmacy Database System (C# + HTML/CSS - MVC)**
+
