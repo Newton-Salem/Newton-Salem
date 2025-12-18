@@ -1,4 +1,7 @@
 # Hi there 👋, I'm Mohamed
+## 👀 My GitHub Stats
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newton-Salem&show_icons=true&theme=radical)
+
 
 ## 🎯 About Me
 - 🎓 Computer Science Student @ Zewail University
