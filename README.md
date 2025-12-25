@@ -3,7 +3,7 @@
 ## 🎯 About Me
 - 🎓 Computer Science Student @ Zewail University
 - 💻 Aspiring Software Engineer
-- 🧪 Software Testing Trainee @ DEPI (Java)
+- 🧪 Software Testing Trainee @ DEPI 
 - 🧠 Interested in Software Engineering & Problem Solving
 - ⚙️ Exploring DevOps and backend development
 
